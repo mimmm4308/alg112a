@@ -1,3 +1,5 @@
+# 有使用chatgpt並稍微修改
+
 import random
 
 def neighbor(f, p, h=0.01):

@@ -1,3 +1,5 @@
+# 有使用chatgpt並稍微修改
+
 def ans(n):
     a = [1, 1]
 

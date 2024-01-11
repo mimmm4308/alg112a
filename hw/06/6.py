@@ -1,3 +1,5 @@
+# 有使用chatgpt並稍微修改
+
 import numpy as np
 
 def df(f, p, k, step=1e-5):

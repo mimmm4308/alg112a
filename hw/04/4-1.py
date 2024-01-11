@@ -1,3 +1,5 @@
+# 有使用chatgpt並稍微修改
+
 from numpy import arange
 
 def ans(a):

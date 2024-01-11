@@ -1,3 +1,5 @@
+# 有使用chatgpt並稍微修改
+
 import numpy as np
 
 def solve_polynomial():

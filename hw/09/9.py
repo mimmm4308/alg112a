@@ -1,3 +1,5 @@
+# 有使用chatgpt並稍微修改
+
 def is_safe(board, row, col, n):
     for i in range(row):
         if board[i][col] == 1:

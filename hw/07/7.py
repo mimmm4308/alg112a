@@ -1,3 +1,5 @@
+# 有使用chatgpt並稍微修改
+
 from micrograd.engine import Value
 
 def df(f, p, k):

@@ -1,3 +1,5 @@
+# 有使用chatgpt並稍微修改
+
 def generate_permutations(elements):
     if len(elements) == 0:
         return [[]]

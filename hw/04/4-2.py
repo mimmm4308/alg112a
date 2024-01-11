@@ -1,3 +1,5 @@
+# 有使用chatgpt並稍微修改
+
 def sol(x0, epsilon, max_iterations):
     print(f"x = {x0}  f(x) = {x0**2 - 3*x0 + 1}")
     
